@@ -1,0 +1,26 @@
+_repo: Gold-Out-of-Celebes_25917
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25917-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dingle, Aylward Edward
+    birthdate: 1874
+    gutenberg_agent_id: '31663'
+    url: http://www.gutenberg.org/2009/agents/31663
+description: ''
+gutenberg_issued: '2008-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25917'
+  lccn: '20008238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PR'
+title: Gold Out of Celebes
+url: http://www.gutenberg.org/ebooks/25917
